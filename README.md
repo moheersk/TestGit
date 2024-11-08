@@ -1,2 +1,2 @@
-#TestGit
-Project Name: This is to test the git
+TestGit
+Description: This is to test the git
